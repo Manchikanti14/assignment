@@ -7,14 +7,15 @@ Initial Function()
 
 Initial Security()
 {
- //Sample code
-
+ //Sample Code
+<<<<<<< HEAD
+=======
 }
 security patch()
 {
 //security patch added
 }
-
+>>>>>>> master
 
 feature1()
 {
