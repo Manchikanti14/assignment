@@ -7,19 +7,24 @@ Initial Function()
 
 Initial Security()
 {
- //Sample Code
-<<<<<<< HEAD
-=======
+ //Sample code
+
 }
 security patch()
 {
 //security patch added
 }
->>>>>>> master
+feature2()
+{
+//feature2 added
+
+<<<<<<< HEAD
 
 feature1()
 {
 //feature1 added
+=======
+>>>>>>> feature2
 }
 
 }

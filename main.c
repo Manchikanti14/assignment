@@ -1,3 +1,4 @@
+
 pseudo code
 {
 Initial Function()
@@ -14,11 +15,17 @@ security patch()
 {
 //security patch added
 }
+feature2()
+{
+//feature2 added
+
 
 
 feature1()
 {
 //feature1 added
+
 }
 
 }
+
